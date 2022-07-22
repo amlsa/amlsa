@@ -2,7 +2,7 @@
 Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineering. I am interested in learning about Data and want a career as a data scientist or data analyst. Because it is not linear with my major in college I have attended several trainings or bootcamps that focus on the field of data science
 ## Training & Certification
 - [Digital Talent Scholarship Data Science]()
-- [DQLab MetaClass : Data Visualization & Storytelling with Python]()
+- [DQLab MetaClass : Data Visualization & Storytelling with Python](https://github.com/amallysajayanti/DQLab-MetaClass-Data-Visualization-Storytelling-with-Python)
 ## Project
 
 ## Find Me

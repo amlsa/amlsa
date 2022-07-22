@@ -4,7 +4,7 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
 - [Digital Talent Scholarship Data Science]()
 - [DQLab MetaClass : Data Visualization & Storytelling with Python](https://github.com/amallysajayanti/DQLab-MetaClass-Data-Visualization-Storytelling-with-Python)
 ## Project
-
+- [Data Analyst Project: Business Decision Research](https://github.com/amallysajayanti/Data-Analyst-Project-Business-Decision-Research) 
 ## Find Me
 <p>
   <a href="https://www.linkedin.com/in/amallysajayanti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  

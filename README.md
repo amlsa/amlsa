@@ -9,7 +9,7 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
 - [Telkom Corporate University : Practical Statistics]()
 - [Telkom Corporate University : Pengantar Big Data Analytics]()
 - [Telkom Corporate University : The New Horizon of Data Science]()
-- [DQLAB : Belajar Data Science dalam Semangat Kemerdekaan]()  
+- [DQLAB : Belajar Data Science dalam Semangat Kemerdekaan](https://github.com/amallysajayanti/DQLAB-Belajar-Data-Science-dalam-Semangat-Kemerdekaan)  
 ## Project
 - [Data Analyst Project: Business Decision Research](https://github.com/amallysajayanti/Data-Analyst-Project-Business-Decision-Research) 
 ## Find Me

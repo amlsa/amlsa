@@ -7,7 +7,7 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
 - [Mekari University : Data Analytics 101]()
 - [Mekari University : Excel: Teknik Dasar untuk Analisis Data]()
 - [Telkom Corporate University : Practical Statistics]()
-- [Telkom Corporate University : Pengantar Big Data Analytics]()
+- [Telkom Corporate University : Pengantar Big Data Analytics](https://medium.com/@amallysaja/pengantar-big-data-analytics-680b283daafa)
 - [Telkom Corporate University : The New Horizon of Data Science]()
 - [DQLAB : Belajar Data Science dalam Semangat Kemerdekaan](https://github.com/amallysajayanti/DQLAB-Belajar-Data-Science-dalam-Semangat-Kemerdekaan)  
 ## Project

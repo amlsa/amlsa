@@ -12,6 +12,9 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
 - [DQLAB : Belajar Data Science dalam Semangat Kemerdekaan](https://github.com/amallysajayanti/DQLAB-Belajar-Data-Science-dalam-Semangat-Kemerdekaan)  
 ## Project
 - [Data Analyst Project: Business Decision Research](https://github.com/amallysajayanti/Data-Analyst-Project-Business-Decision-Research) 
+- [Project Machine Learning for Retail with R: Product Packaging](https://github.com/amallysajayanti/Project-Machine-Learning-for-Retail-with-R-Product-Packaging)
+- [Project: Data Scientist Assessment Using R](https://github.com/amallysajayanti/Project-Data-Scientist-Assessment-Using-R)
+- [Project Analisa Klasifikasi Pinjaman untuk Sektor UMKM](https://github.com/amallysajayanti/Project-Analisa-Klasifikasi-Pinjaman-untuk-Sektor-UMKM)
 ## Find Me
 <p>
   <a href="https://www.linkedin.com/in/amallysajayanti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  

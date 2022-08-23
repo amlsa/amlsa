@@ -2,18 +2,12 @@
 Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineering. I am interested in learning about Data and want a career as a data scientist or data analyst. Because it is not linear with my major in college I have attended several trainings or bootcamps that focus on the field of data science
 ## Training & Certification
 - [Digital Talent Scholarship Kominfo : Data Science](https://github.com/amallysajayanti/Digital-Talent-Scholarship-Kominfo-Data-Science)
-- [DQLAB : Data Analyst Career Track (Python)]()
+- [DQLAB Online Bootcamp Program (Python)]()
 - [DQLab MetaClass : Data Visualization & Storytelling with Python](https://github.com/amallysajayanti/DQLab-MetaClass-Data-Visualization-Storytelling-with-Python)
-- [Mekari University : Data Analytics 101]()
-- [Mekari University : Excel: Teknik Dasar untuk Analisis Data]()
-- [Telkom Corporate University : Practical Statistics]()
-- [Telkom Corporate University : Pengantar Big Data Analytics](https://medium.com/@amallysaja/pengantar-big-data-analytics-680b283daafa)
-- [Telkom Corporate University : The New Horizon of Data Science]()
 - [DQLAB : Belajar Data Science dalam Semangat Kemerdekaan](https://github.com/amallysajayanti/DQLAB-Belajar-Data-Science-dalam-Semangat-Kemerdekaan)  
 ## Project
 - [Data Analyst Project: Business Decision Research](https://github.com/amallysajayanti/Data-Analyst-Project-Business-Decision-Research) 
 - [Project Machine Learning for Retail with R: Product Packaging](https://github.com/amallysajayanti/Project-Machine-Learning-for-Retail-with-R-Product-Packaging)
-- [Project: Data Scientist Assessment Using R](https://github.com/amallysajayanti/Project-Data-Scientist-Assessment-Using-R)
 - [Project Analisa Klasifikasi Pinjaman untuk Sektor UMKM](https://github.com/amallysajayanti/Project-Analisa-Klasifikasi-Pinjaman-untuk-Sektor-UMKM)
 ## Find Me
 <p>

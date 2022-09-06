@@ -17,4 +17,4 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
   <a href="https://www.instagram.com/amallysaja" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 ## Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amallysajayanti" alt="amallysajayanti" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=amallysajayanti" alt="amallysajayanti" /> </p>

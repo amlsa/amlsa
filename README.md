@@ -21,7 +21,7 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
 <p> <img src="https://komarev.com/ghpvc/?username=amallysajayanti" alt="amallysajayanti" /> </p>
 
 ## Github Stats
-<p><br /><br />
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=amallysajayanti&show_icons=true&theme=monokai" alt="amallysajayanti" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amallysajayanti&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallysajayanti&layout=compact&theme=monokai&langs_count=12"/><br />

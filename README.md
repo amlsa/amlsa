@@ -16,3 +16,5 @@ Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineeri
   <a href="mailto:amallysaj0@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.instagram.com/amallysaja" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
+## Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amallysajayanti" alt="amallysajayanti" /> </p>

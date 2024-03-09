@@ -1,5 +1,5 @@
 ## About Me 
-Hello, you can call me Amallysa, I am a graduate of Telecommunications Engineering. 
+ 
 ## Training & Certification
 - [Quality Assurance Intermediate - Sanbercode Batch 49]
 - [Quality Assurance - MySkill]
